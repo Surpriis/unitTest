@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "test": "jest --runInBand",
-    "coverage": "jest --coverage"
-  },
+  "test": "jest --runInBand",
+  "coverage": "jest --coverage"
+},
   "devDependencies": {
     "jest": "^29.7.0"
   }

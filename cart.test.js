@@ -18,3 +18,12 @@ test('stukorv maksab 0 eurot', () => {
 test('Ostukorv maksab 45 eurot kask tooted 20 euro', () => {
   expect(calculateTotal([{ price: 100, qty: 1 }])).toBe(100);
 });
+test('annab vea, kui items ei ole massiiv', () => {
+  expect(() => calculateTotal('abc')).toThrow();
+});
+test('FREESHIP teeb saatmise tasuta', () => {
+  expect(calculateTotal(
+    [{ price: 10, qty: 1 }],
+    'FREESHIP'
+  )).toBe(10);
+});
