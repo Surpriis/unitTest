@@ -30,3 +30,10 @@
 
 ![Screenshot 2026-11-16 140845.png](screens/Screenshot%202026-11-16%20140845.png)[Parandatud Kood]
 
+### 13. Kontrolli koodikatvust
+
+![Screenshot 2026-11-16 142840.png](screens/Screenshot%202026-11-16%20142840.png)
+
+## OSA C. TDD
+
+### 14. Uus nõue
