@@ -37,3 +37,14 @@
 ## OSA C. TDD
 
 ### 14. Uus nõue
+Lisame sooduskoodi FREESHIP: saatmine on tasuta olenemata ostusummast.
+Näide: toode maksab 10 €, kogus on 1 ja sooduskood on FREESHIP. Lõpptulemus peab olema 10 €, mitte 15 €.
+
+### 15. TDD esimene samm – kirjuta test enne koodi
+![Screenshot 2026-11-16 143546.png](screens/Screenshot%202026-11-16%20143546.png)
+
+### 16. TDD teine samm – muuda koodi
+![Screenshot 2026-11-16 142840.png](screens/Screenshot%202026-11-16%20142840.png)
+### 17. TDD kolmas samm – kontrolli regressiooni
+![Screenshot 2026-11-16 144359.png](screens/Screenshot%202026-11-16%20144359.png)
+
