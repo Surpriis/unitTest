@@ -17,10 +17,14 @@
 ![Screenshot 2026-11-16 132018.png](screens/Screenshot%202026-11-16%20132018.png)[Parandatud kood]
 ## OSA B
 
+### 8. Nõuded
+
+![Screenshot 2026-11-16 142447.png](screens/Screenshot%202026-11-16%20142447.png)
+
 ### 9. Kirjuta ostukorvi testid
 ![Screenshot 2026-11-16 140811.png](screens/Screenshot%202026-11-16%20140811.png)[tests]
 
-### 10. Nõuded
+### 10. Leia ja paranda ostukorvi viga
 
 ![Screenshot 2026-11-16 140851.png](screens/Screenshot%202026-11-16%20140851.png)[Viga]
 
